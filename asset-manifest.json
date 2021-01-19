@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zp__app/static/css/main.9281c1cb.chunk.css",
+    "main.js": "/zp__app/static/js/main.4c8d8c3f.chunk.js",
+    "main.js.map": "/zp__app/static/js/main.4c8d8c3f.chunk.js.map",
+    "runtime-main.js": "/zp__app/static/js/runtime-main.667d31b2.js",
+    "runtime-main.js.map": "/zp__app/static/js/runtime-main.667d31b2.js.map",
+    "static/js/2.4f59719c.chunk.js": "/zp__app/static/js/2.4f59719c.chunk.js",
+    "static/js/2.4f59719c.chunk.js.map": "/zp__app/static/js/2.4f59719c.chunk.js.map",
+    "static/js/3.b1e91ac8.chunk.js": "/zp__app/static/js/3.b1e91ac8.chunk.js",
+    "static/js/3.b1e91ac8.chunk.js.map": "/zp__app/static/js/3.b1e91ac8.chunk.js.map",
+    "index.html": "/zp__app/index.html",
+    "static/css/main.9281c1cb.chunk.css.map": "/zp__app/static/css/main.9281c1cb.chunk.css.map",
+    "static/js/2.4f59719c.chunk.js.LICENSE.txt": "/zp__app/static/js/2.4f59719c.chunk.js.LICENSE.txt",
+    "static/media/chetko.e3291346.jpg": "/zp__app/static/media/chetko.e3291346.jpg",
+    "static/media/loh.1c86a1e0.jpg": "/zp__app/static/media/loh.1c86a1e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.667d31b2.js",
+    "static/js/2.4f59719c.chunk.js",
+    "static/css/main.9281c1cb.chunk.css",
+    "static/js/main.4c8d8c3f.chunk.js"
+  ]
+}
